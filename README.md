@@ -1,5 +1,5 @@
 ## Hi there 👋 </br>
-18 year old who mistook her facination with computers and liking towards math as i can make a career out of this. Pretty good with writing automation scripts in python, please the teacher by showing every-f*ing-graphing fn matplotlib offers and obviously superior to her peers cause i daily drive linux. thank you for your time to coming to my ted talk about myself.</br>
+18 year old who mistook her fascination with computers and liking towards math as i can make a career out of this. Pretty good with writing automation scripts in python, please the teacher by showing every-f*ing-graphing fn matplotlib offers and obviously superior to her peers cause i daily drive linux. thank you for your time to coming to my ted talk about myself.</br>
 oh i really like solving CP questions
 
 - 🔭 I’m currently working nothing and everything at the same time. </br>
